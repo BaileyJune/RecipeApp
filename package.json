@@ -22,8 +22,8 @@
   "dependencies": {
     "assetmanager": "latest",
     "async": "latest",
-    "bower": "latest",
     "body-parser": "latest",
+    "bower": "latest",
     "compression": "latest",
     "connect-flash": "latest",
     "connect-modrewrite": "latest",
@@ -34,6 +34,7 @@
     "forever": "latest",
     "gridfs-stream": "latest",
     "jsonwebtoken": "latest",
+    "kerberos": "0.0.19",
     "lodash": "latest",
     "meanio": "latest",
     "mongoose": "latest",
